@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pulkit yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/grayscale_dreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grayscale_dreamer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/pulkit-yadav-89a469286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pulkit-yadav-89a469286" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/grayscale_dreamer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/grayscale_dreamer/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
