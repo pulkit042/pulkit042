@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **yadav.pulkit0712@gmail.com**
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pulkit-yadav-89a469286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-yadav-89a469286" height="30" width="40" /></a>
