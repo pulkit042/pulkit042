@@ -39,7 +39,7 @@ interests   : Hardware Design · Microprocessors · Digital Systems · Drones
 contact     : yadav.pulkit0712@gmail.com
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Current Projects
 
@@ -62,32 +62,38 @@ contact     : yadav.pulkit0712@gmail.com
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### ⚙️ Hardware & HDL
-![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-E34F26?style=for-the-badge&logo=v&logoColor=white)
-![VLSI](https://img.shields.io/badge/VLSI_Design-0f172a?style=for-the-badge&logo=chip&logoColor=a78bfa)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 💻 Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white"/>
+<img src="https://img.shields.io/badge/SystemVerilog-E34F26?style=for-the-badge&logo=v&logoColor=white"/>
+<img src="https://img.shields.io/badge/VLSI_Design-0f172a?style=for-the-badge&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
-### 🖥️ Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br/><br/>
+
+### 💻 Programming & Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,matlab,linux,git,vscode,blender&perline=8&theme=dark" alt="Skills"/>
+</a>
+
+<br/><br/>
+
+### 🔧 Embedded & Hardware Platforms
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,github,bash&perline=8&theme=dark" alt="Hardware Skills"/>
+</a>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Statistics
 
@@ -105,7 +111,7 @@ contact     : yadav.pulkit0712@gmail.com
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📬 Connect With Me
 
@@ -117,13 +123,15 @@ contact     : yadav.pulkit0712@gmail.com
 
 </div>
 
----
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Footer Wave -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:0f0c29&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=a78bfa&fontAlignY=65&animation=twinkling" width="100%"/>
+</div>
 <sub>⚡ "Hardware is where software meets reality." — Designed with passion for engineering.</sub>
 
 </div>
