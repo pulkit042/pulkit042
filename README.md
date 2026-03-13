@@ -72,7 +72,6 @@ contact     : yadav.pulkit0712@gmail.com
 
 <img src="https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white"/>
 <img src="https://img.shields.io/badge/SystemVerilog-E34F26?style=for-the-badge&logo=v&logoColor=white"/>
-<img src="https://img.shields.io/badge/VLSI_Design-0f172a?style=for-the-badge&logoColor=a78bfa"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 <br/><br/>
