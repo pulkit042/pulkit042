@@ -48,7 +48,7 @@ contact     : yadav.pulkit0712@gmail.com
     <td valign="top" width="50%">
       <h3>Functional Safety RISC-V</h3>
       <p>
-        Developing a DCLS based Functional safety RISC-V processor, particaularly targeting the Automobile industries.
+        Developing a DCLS based Functional safety RISC-V processor, particularly targeting the Automobile industries.
       </p>
       <img src="https://img.shields.io/badge/Status-Active-22c55e?style=flat-square"/>
     </td>
