@@ -26,7 +26,7 @@
 </div>
 
 
-## 🧑‍💻 About Me
+## About Me
 ```yaml
 name        : Pulkit Yadav
 education   : B.Tech ECE @ IIIT Dharwad
@@ -41,7 +41,7 @@ contact     : yadav.pulkit0712@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Current Projects
+## Current Projects
 
 <table>
   <tr>
@@ -64,11 +64,11 @@ contact     : yadav.pulkit0712@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### ⚙️ Hardware & HDL
+### Hardware & HDL
 
 <img src="https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white"/>
 <img src="https://img.shields.io/badge/SystemVerilog-E34F26?style=for-the-badge&logo=v&logoColor=white"/>
@@ -76,7 +76,7 @@ contact     : yadav.pulkit0712@gmail.com
 
 <br/><br/>
 
-### 💻 Programming & Tools
+### Programming & Tools
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,matlab,linux,git,vscode,blender&perline=8&theme=dark" alt="Skills"/>
@@ -84,7 +84,7 @@ contact     : yadav.pulkit0712@gmail.com
 
 <br/><br/>
 
-### 🔧 Embedded & Hardware Platforms
+### Embedded & Hardware Platforms
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,github,bash&perline=8&theme=dark" alt="Hardware Skills"/>
@@ -94,7 +94,7 @@ contact     : yadav.pulkit0712@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -112,7 +112,7 @@ contact     : yadav.pulkit0712@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
